@@ -1,0 +1,27 @@
+Following is the description of the licenses which are used for the softwares being used in our project :
+
+Free Software License : It is a notice which grants the user of a software piece to modify that software. These actions are generally
+                                           restricted by the copyright law but these restrictions can be removed by the author of that software by 
+                                           adding software license with that software to enable any user of that software to modify it. 
+                                           The software using such a license is called Free Software.
+
+GNU General Public License (GNU GPL or GPL)  :  It is basically a type of free software license. It is most widely used free software
+                                           due to which a user (an individual or company or organisation) of a particular software is granted the
+		       freedom to study, share or copy and modify that software. This license gives the users of a computer                                            program  the rights of "Free Software Definition" which itself defines free software as the one which enables
+                                           its users to use, study, share and modify that software thereby giving users liberty.
+
+Apache License :             It is a free software license which is written by Apache Software Foundation (ASF). Similar to any free 
+                                           license, it gives liberty to user of Apache Software to use the software for any purpose, to modify it and also
+		       to distribute the modified versions of software under the terms of license.
+
+Apache License 2.0 :      This version of Apache License was adopted by ASF  in January 2004. The goals of this license included
+		       making it easier for non-ASF projects to use and improving comapatibility with GPS-based software.              
+Now following is the list of the name of softwares used alongwith their licenses :
+
+1.  Freemind  :  Freemind is licensed under GNU General Public License.
+
+2.  MySQL Server : GNU General Public License
+
+3.  Tomcat Server : Apache License 2.0
+
+4.  Wamp : GNU General Public License Version-2 (GPLv2)
